@@ -5,8 +5,6 @@ print(file.read())
 
 file = open("Text2.txt", "x")
 
-
-
 #write to a file
 
 file = open("Text.txt", "w")
